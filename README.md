@@ -7,7 +7,7 @@
 ## 👨‍💻 Обо мне
 
 🔧 Работаю с DataLens, Dbeaver, PostgreSQL, Python (pandas, numpy), Google Docs  
-📈 Знакома с Tableau и основами статистики 
+📈 Знакома с Tableau и основами статистики   
 📬 Готова выполнить тестовое задание и пройти собеседование  
 📱 Telegram: [@nmyrth](https://t.me/nmyrth)
 
